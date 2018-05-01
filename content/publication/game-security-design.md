@@ -21,7 +21,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Message"
+abstract = "<h4>ゲームセキュリティ設計コンサルとは</h4><p>ゲームでのセキュリティとは多くの場合「チーター(チート行為)対策」となります。大手企業の作成したゲームでも、設計や実装のミスを突かれたチート行為によりユーザーのUXを損なうような事態におちいっているというのが話題になったりします。ゲームの場合、実装ミスによる被害というのは直接的な被害よりはユーザーの離脱による機会損失という形になり損失が見えにくいですが、ゲームを運用するのであればセキュリティ対策は非常に重要です。私はDeNA時代にはメインの業務としてゲームのセキュリティ設計や脆弱性診断を行ってきたのでお力添え出来ると思います。</p><h4>成果物について</h4><p>他の項目と同様、観点や対策をわかりやすく共有できればと思っています。</p>"
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -50,7 +50,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
+image = "headers/roof_windows.jpg"
 caption = ""
 
 +++

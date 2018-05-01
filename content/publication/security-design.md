@@ -21,7 +21,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Message"
+abstract = "<h4>アプリケーションセキュリティコンサルとは</h4><p>実装が終わったアプリケーションの脆弱性を発見するのも大切ですが、そもそも事前に作り込まないような設計を行っていれば手戻りがなくなります。また、明らかにミッションクリティカルな機能などはエンジニアもどのような点に気をつけて設計や実装を行えば良いのか、テストはどんな観点で行えばよいのか不安になりがちです。そのような場合にお役にたてると思います。</p><h4>成果物</h4><p>設計ミーティングへ参加したあと観点をまとめたものを共有したり、github等でソースコードを見せていただけるならそちらにコメントを書き加えたり等の形で提供できればと思います</p>"
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -50,7 +50,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
+image = "headers/roof_windows.jpg"
 caption = ""
 
 +++
