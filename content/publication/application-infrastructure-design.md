@@ -21,7 +21,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Message"
+abstract = "<h4>アプリケーションインフラ構築</h4><p>アプリケーションにおいてサーバープログラムが必要な場合にインフラを設計、構築します。AWS/GCP/オンプレのどちらの環境でも経験があるので柔軟に対応できます。各種サーバーのセットアップやDockerイメージの作成、AWSやGCPのサービスを用いたアーキテクチャの提案、CI/CD自動化、基本的なインフラエンジニアとしての業務が可能です。実務レベルで経験のあるもののキーワードを以下に記載するので参考にしてください<ul><li>AWS(EC2,RDS,S3,ElastiCache,Lamda,WAF等基本的なサービス運用に必要なサービス群)</li><li>GCP(GAE,GCE,GKE,GCF, その他AWSと似たようなものは概ね)</li><li>Jenkins</li><li>CircleCI(1.0/2.0)</li><li>Docker</li><li>Kubernetes(AWS/GCP両方での運用経験があります)</li><li>Datadog</li><li>Mackerel</li><li>apache/nginx/H2O/traefik</li></ul></p>"
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -50,7 +50,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
+image = "headers/airport_carts.jpg"
 caption = ""
 
 +++
